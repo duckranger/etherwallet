@@ -394,6 +394,11 @@
 "decimal":8,
 "type":"default"
 },{
+"address":"0xbD2ED3E85faa3433c068c7B3f9C8C7d839CE88d7",
+"symbol":"HST",
+"decimal":18,
+"type":"default"
+},{
 "address":"0x5a84969bb663fb64F6d015DcF9F622Aedc796750",
 "symbol":"ICE",
 "decimal":18,
